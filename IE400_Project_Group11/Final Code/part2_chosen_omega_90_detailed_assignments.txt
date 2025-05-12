@@ -1,0 +1,50 @@
+Part 2: Detailed Assignments for Chosen ω = 90%
+Target: Achieve at least 90% of Mw (240.00), which is 240.00
+Achieved Max Dissimilarity: 2.1500
+Achieved Total Priority: 221.00
+Number of Assignments: 41
+====================================================================================================
+Seeker ID    Seeker Loc  Job ID    Job Loc  Job Type     Priority  Dissim.   
+----------------------------------------------------------------------------------------------------
+S0003        D           J0010     B        Part-time    1.00      1.6500    
+S0018        E           J0052     E        Full-time    4.00      2.0000    
+S0025        D           J0002     C        Internship   8.00      1.6500    
+S0028        E           J0070     A        Part-time    3.00      1.5500    
+S0029        D           J0017     B        Part-time    5.00      1.3000    
+S0031        D           J0028     D        Part-time    6.00      1.4500    
+S0034        D           J0029     E        Full-time    5.00      2.1500    
+S0038        D           J0004     B        Internship   7.00      2.0500    
+S0061        E           J0053     E        Internship   6.00      2.1500    
+S0065        B           J0020     E        Full-time    9.00      2.1500    
+S0068        C           J0063     B        Contract     3.00      1.4000    
+S0078        D           J0046     B        Full-time    4.00      1.8500    
+S0079        B           J0003     E        Part-time    8.00      1.7000    
+S0085        C           J0010     B        Part-time    1.00      1.5000    
+S0088        B           J0019     B        Internship   8.00      2.1000    
+S0089        B           J0046     B        Full-time    4.00      1.7500    
+S0100        E           J0019     B        Internship   8.00      2.0000    
+S0104        E           J0053     E        Internship   6.00      1.2000    
+S0121        A           J0026     D        Internship   6.00      1.4500    
+S0128        E           J0008     F        Contract     4.00      1.7500    
+S0132        B           J0013     B        Internship   2.00      2.1500    
+S0151        D           J0056     C        Part-time    4.00      1.7500    
+S0156        D           J0054     E        Part-time    2.00      1.2000    
+S0159        E           J0052     E        Full-time    4.00      2.0500    
+S0172        A           J0027     B        Contract     4.00      2.1500    
+S0173        E           J0069     C        Contract     7.00      1.7000    
+S0175        D           J0046     B        Full-time    4.00      2.1000    
+S0176        A           J0020     E        Full-time    9.00      1.8000    
+S0178        F           J0053     E        Internship   6.00      1.9500    
+S0199        F           J0056     C        Part-time    4.00      1.7500    
+S0245        E           J0070     A        Part-time    3.00      1.5500    
+S0253        B           J0028     D        Part-time    6.00      1.4000    
+S0262        C           J0002     C        Internship   8.00      1.5000    
+S0268        D           J0068     D        Full-time    10.00     2.1500    
+S0273        C           J0019     B        Internship   8.00      1.7500    
+S0289        E           J0069     C        Contract     7.00      1.7000    
+S0308        C           J0068     D        Full-time    10.00     1.8500    
+S0330        B           J0046     B        Full-time    4.00      1.7000    
+S0340        C           J0046     B        Full-time    4.00      1.6500    
+S0382        C           J0028     D        Part-time    6.00      1.4000    
+S0398        A           J0043     B        Part-time    3.00      1.6000    
+====================================================================================================

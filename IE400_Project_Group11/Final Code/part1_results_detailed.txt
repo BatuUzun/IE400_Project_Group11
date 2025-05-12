@@ -1,0 +1,57 @@
+Part 1 Results: Maximize Priority-Weighted Matches
+======================================================================
+Maximum Total Priority Weight (Mw): 240.00
+Number of assignments: 46
+
+Detailed Assignments (Seeker_ID -> Job_ID):
+Seeker ID    Seeker Loc  Job ID    Job Loc  Job Type     Priority 
+----------------------------------------------------------------------
+S0003        D           J0010     B        Part-time    1.00     
+S0006        C           J0069     C        Contract     7.00     
+S0011        B           J0054     E        Part-time    2.00     
+S0018        E           J0052     E        Full-time    4.00     
+S0025        D           J0002     C        Internship   8.00     
+S0028        E           J0070     A        Part-time    3.00     
+S0029        D           J0017     B        Part-time    5.00     
+S0031        D           J0028     D        Part-time    6.00     
+S0032        F           J0068     D        Full-time    10.00    
+S0034        D           J0029     E        Full-time    5.00     
+S0038        D           J0004     B        Internship   7.00     
+S0061        E           J0053     E        Internship   6.00     
+S0065        B           J0020     E        Full-time    9.00     
+S0068        C           J0063     B        Contract     3.00     
+S0078        D           J0046     B        Full-time    4.00     
+S0079        B           J0003     E        Part-time    8.00     
+S0082        F           J0019     B        Internship   8.00     
+S0085        C           J0010     B        Part-time    1.00     
+S0088        B           J0019     B        Internship   8.00     
+S0089        B           J0046     B        Full-time    4.00     
+S0094        A           J0028     D        Part-time    6.00     
+S0100        E           J0019     B        Internship   8.00     
+S0102        F           J0068     D        Full-time    10.00    
+S0104        E           J0053     E        Internship   6.00     
+S0111        B           J0028     D        Part-time    6.00     
+S0121        A           J0026     D        Internship   6.00     
+S0128        E           J0008     F        Contract     4.00     
+S0132        B           J0013     B        Internship   2.00     
+S0151        D           J0056     C        Part-time    4.00     
+S0159        E           J0052     E        Full-time    4.00     
+S0163        E           J0069     C        Contract     7.00     
+S0170        C           J0052     E        Full-time    4.00     
+S0172        A           J0027     B        Contract     4.00     
+S0175        D           J0046     B        Full-time    4.00     
+S0176        A           J0020     E        Full-time    9.00     
+S0177        A           J0043     B        Part-time    3.00     
+S0178        F           J0053     E        Internship   6.00     
+S0199        F           J0056     C        Part-time    4.00     
+S0245        E           J0070     A        Part-time    3.00     
+S0262        C           J0002     C        Internship   8.00     
+S0282        B           J0034     A        Part-time    4.00     
+S0291        F           J0048     D        Internship   5.00     
+S0330        B           J0046     B        Full-time    4.00     
+S0331        D           J0011     C        Full-time    2.00     
+S0340        C           J0046     B        Full-time    4.00     
+S0381        C           J0008     F        Contract     4.00     
+
+======================================================================
+Sum of priorities in assignments (check): 240.00
