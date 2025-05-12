@@ -86,7 +86,7 @@ Minimize the **maximum dissimilarity score** among all matches, subject to a min
 
 ## 📄 License
 
-This project was created for academic purposes as part of the IE400 course at [Bilkent University].
+This project was created for academic purposes as part of the IE400 course at Bilkent University.
 
 ---
 
